@@ -4,6 +4,7 @@
 - Make some changes
 - Do a PR Back to the original repo
   - that PR should have a thorough comment with what you did, maybe include screenshots
+- Maybe your PR will be accepted.
 
 
 ![some silly image](https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif)
