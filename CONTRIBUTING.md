@@ -6,8 +6,11 @@
   - that PR should have a thorough comment with what you did, maybe include screenshots
 
 
-![some silly image](https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif)
+![some silly image](http://www.corgiorgy.com/corgiswimflip.gif)
 
 ![some serious image](https://media.giphy.com/media/el60e3Cu18KKk/giphy.gif)
+
+![some silly image again](http://www.corgiorgy.com/corgiswimflip.gif)
+
 
 ![some weird ass image](https://media.giphy.com/media/3o85xIp0iu8Qkkv1de/giphy.gif)
