@@ -1,9 +1,9 @@
 # How to contribute to this project
 
-- Fork this repo
+- Just fork this repo
 - Make some changes
-- Do a PR Back to the original repo
-  - that PR should have a thorough comment with what you did, maybe include screenshots
+- Do e PR Back to the original repo
+  - that PR should have a thorough comment with what you did, maybe include some shots
 
 
 ![some silly image](https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif)
